@@ -4,7 +4,7 @@
       I went on to get a bachelor's in Computer Science and start my career journey. Having prior experience with helpdesk work,
       I worked with SAP Ariba for a few years to get a feel for real high-level and corporate practices in my industry. 
       Now I'm moving forward in my career to my dream: learning more about coding and building on those skills so that
-      I can be the best!
+      I can create tons of cool things and feel satisfaction in my work!
 
 - 📫 How to reach me:
       youngpauljeff@gmail.com
